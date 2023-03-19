@@ -1,1 +1,3 @@
-print("Wellcome to PyKittens!")
+import user.menu
+
+user.menu.start()
